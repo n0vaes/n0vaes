@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello! 👋
+
+My name is Alan, and I'm an aspiring dev learning the ways of JavaScript/TypeScript/React/Node/CSS, solving one bug at a time!
 
 <!--
 **n0vaes/n0vaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
