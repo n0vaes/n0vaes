@@ -1,6 +1,6 @@
 ## 	😁📢 Hello!
 
-My name is Alan, and I'm an aspiring dev learning the ways of JavaScript/TypeScript/React/Node/CSS, solving one bug at a time!
+My name is Alan, and I'm an aspiring dev learning the ways of JavaScript/TypeScript/React/Node/CSS!
 
 ### Public information
 
