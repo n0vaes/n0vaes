@@ -1,6 +1,6 @@
 ## 	😁📢 Hello!
 
-<img align="right" style="width:5%" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47wfpinv66pjzg5r2d4blz6elbak2cyyyc6jcedx1a&rid=giphy.gif&ct=g">
+<img align="right" style="width:60px; height: 60px" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47wfpinv66pjzg5r2d4blz6elbak2cyyyc6jcedx1a&rid=giphy.gif&ct=g">
 
 My name is Alan, and I'm an aspiring dev learning the ways of JavaScript/TypeScript/Node.JS!
 
