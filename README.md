@@ -3,7 +3,7 @@
 My name is Alan, and I'm an aspiring dev learning the ways of JavaScript/TypeScript/Node.JS!
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:alanovaes@gmail.com)](mailto:alanovaes@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-alves-novaes-4930b5bb/)](https://www.linkedin.com/in/alan-alves-novaes-4930b5bb/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alanovaes/)](https://www.linkedin.com/in/alanovaes/)
 
 ## 👨‍💻 About me 
 - 💻 System Analisys and Development graduate @ FATEC.
